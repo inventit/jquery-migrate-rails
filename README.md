@@ -24,7 +24,7 @@ Or install it yourself as:
 In your application.js you will need to add this line:
 
 ```
-//= require jquery.migrate
+//= require jquery-migrate
 ```
 
 ## Contributing
