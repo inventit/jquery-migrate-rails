@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Integrate jquery.migrate assets in your Rails asset pipeline}
   spec.description   = %q{Wrap jquery.migrate and provide the assets as a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/inventit/jquery-migrate-rails"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
